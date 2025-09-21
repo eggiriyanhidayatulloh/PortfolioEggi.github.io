@@ -7,7 +7,7 @@ menuIcon.onclick = () => {
     menuIcon.classList.toggle('bx-x');
     navbar.classList.toggle('active');
 };
- 
+
 // Scroll sections active kink
 
 let sections = document.querySelectorAll('section');
